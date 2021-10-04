@@ -1,0 +1,17 @@
+.group1 {
+  position: absolute;
+}
+
+.group1 img {
+  position: relative;
+  z-index: -1;
+}
+.group1 a {
+  color: #ffff;
+  position: relative;
+  top: -30px;
+  z-index: 1;
+  left: 1125px;
+  padding: 15px;
+  text-decoration: none;
+}
