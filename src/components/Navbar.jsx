@@ -1,19 +1,24 @@
 import React from 'react';
-import navPic from '../assets/navPic.png';
-import style from '../styleModules/Navbar.module.css';
 
 function Navbar() {
   return (
     <>
-      <nav>
-        <div className={style.group1}>
-          <img src={navPic} alt="" className={style.navPic} />
-          <a href="" className={style.aTag}>
-            About Me
-          </a>
-          <a href="">Skills</a>
-          <a href="">Portfolio</a>
-          <a href="">Contact Me</a>
+      <nav className="navbar is-black">
+        <div className="navbar-menu">
+          <div className="navbar-end">
+            <a href="" className="navbar-item">
+              About me
+            </a>
+            <a href="" className="navbar-item">
+              Skills
+            </a>
+            <a href="" className="navbar-item">
+              Portfolio
+            </a>
+            <a href="" className="navbar-item">
+              Contact Me
+            </a>
+          </div>
         </div>
       </nav>
     </>

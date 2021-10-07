@@ -1,6 +1,8 @@
 import React from 'react';
 import FooterBar from './components/FooterBar';
 import Navbar from './components/Navbar';
+import 'bulma/css/bulma.min.css';
+
 function App() {
   return (
     <div className="App">
