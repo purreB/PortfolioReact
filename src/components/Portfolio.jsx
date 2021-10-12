@@ -31,10 +31,10 @@ function Portfolio() {
                 <h1 className="title mt-6">Our Biggest Project Yet</h1>
                 <h1 className="subtitle is-3">A fullstack music app!</h1>
                 <ul>
+                  <li>Made Using React</li>
+                  <li>CSS Framework - Material UI</li>
                   <li>Mobile First Principle</li>
                   <li>SQL Database</li>
-                  <li>Material UI</li>
-                  <li>React</li>
                   <li>
                     No clear text passwords - Bcrypt hashes and salts pwds
                   </li>

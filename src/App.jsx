@@ -5,6 +5,7 @@ import 'bulma/css/bulma.min.css';
 import About from './components/About';
 import Skills from './components/Skills';
 import Portfolio from './components/Portfolio';
+import CurrentLearning from './components/CurrentLearning';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <About />
         <Portfolio />
         <Skills />
+        <CurrentLearning />
       </main>
       <FooterBar />
     </div>

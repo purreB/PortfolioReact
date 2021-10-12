@@ -91,3 +91,25 @@ footer {
   color: antiquewhite;
   font-weight: bold;
 }
+
+#skills .textSection {
+  color: whitesmoke;
+}
+
+#skills .title {
+  color: tan;
+  font-weight: bold;
+}
+
+#learning .title {
+  color: tan;
+  font-weight: bold;
+}
+
+#learning typography {
+  color: whitesmoke;
+}
+
+#footer p {
+  color: whitesmoke;
+}

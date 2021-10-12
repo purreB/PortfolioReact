@@ -15,8 +15,10 @@ function About() {
             Hello and welcome to my simple portfolio! <br /> My name is Jakob as
             mentioned above and i am 21 years old, i live in a small (ish)
             village outside of Skövde called Timmersdala. I am in the midst of
-            learning FrontEndDevelopment! This site is to be looked at in an
-            experimental way and things may change from one day to another.
+            learning FrontEnd-Development with focus on webbsecurity! <br />
+            <br /> I also have a great intrest in gaming, i have even competed
+            in Esports were i believe i have learnt a great deal about working
+            in teams and especially the importance of good communication skills.
           </typography>
         </div>
         <article>
@@ -26,6 +28,9 @@ function About() {
             className="is-align-self-flex-end"
           />
           <div>
+            <p>Jakob Bergström</p>
+            <p>jakob.bergstrom@live.se</p>
+
             <a
               href="https://github.com/purreB"
               className="fab fa-github fa-2x has-text-grey"

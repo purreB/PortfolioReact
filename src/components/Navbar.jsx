@@ -26,8 +26,12 @@ function Navbar() {
             <a href="#skills" className="navbar-item" onClick={toggleDropdown}>
               Skills
             </a>
-            <a href="#contact" className="navbar-item" onClick={toggleDropdown}>
-              Contact Me
+            <a
+              href="#learning"
+              className="navbar-item"
+              onClick={toggleDropdown}
+            >
+              Current Learning
             </a>
           </div>
         </div>
