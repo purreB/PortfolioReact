@@ -35,7 +35,7 @@ function Skills() {
         </section>
         <section className="textSection section has-text-centered">
           <div className="container">
-            <typography className="is-size-3 has-text-centered has-text-weight-light is-size-5-mobile">
+            <p className="is-size-3 has-text-centered has-text-weight-light is-size-5-mobile">
               Besides the skills shown above i have an gymnasieexamen in
               societal science were i studied subjects such as:
               <ul>
@@ -54,7 +54,7 @@ function Skills() {
               other representatives from other classes aswell as a large variety
               of IT-companies. In these meetings we discuss the current need of
               the IT-sector and make sure our education reflects those needs.
-            </typography>
+            </p>
           </div>
         </section>
       </section>

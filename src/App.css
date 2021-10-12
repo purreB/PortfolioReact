@@ -13,9 +13,9 @@ footer {
 /*Overwrite default text color */
 #portfolio h1,
 #skills h1,
-#about typography,
 #about p,
-#portfolio typography {
+#about p,
+#portfolio p {
   color: whitesmoke;
 }
 
@@ -70,7 +70,6 @@ footer {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding-left: 2rem;
 }
 
 #portfolio .SpotifyClone {
@@ -106,7 +105,7 @@ footer {
   font-weight: bold;
 }
 
-#learning typography {
+#learning p {
   color: whitesmoke;
 }
 

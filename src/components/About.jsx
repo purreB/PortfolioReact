@@ -11,15 +11,15 @@ function About() {
         <div className="container">
           <h1 className="title is-1 is-size-3-mobile">Jakob Bergström</h1>
           <p className="subtitle is-3"> FrontEnd Student</p>
-          <typography className="is-size-3 has-text-centered has-text-weight-light is-size-5-mobile">
+          <p className="is-size-3 has-text-centered has-text-weight-light is-size-5-mobile">
             Hello and welcome to my simple portfolio! <br /> My name is Jakob as
             mentioned above and i am 21 years old, i live in a small (ish)
             village outside of Skövde called Timmersdala. I am in the midst of
             learning FrontEnd-Development with focus on webbsecurity! <br />
-            <br /> I also have a great intrest in gaming, i have even competed
+            <br /> I also have a great interest in gaming, i have even competed
             in Esports were i believe i have learnt a great deal about working
             in teams and especially the importance of good communication skills.
-          </typography>
+          </p>
         </div>
         <article>
           <img
