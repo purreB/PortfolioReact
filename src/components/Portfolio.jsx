@@ -1,5 +1,5 @@
 import React from 'react';
-import spotify from '../assets/SpotifyClone.png';
+import spotify from '../assets/SpotifyClone.jpg';
 function Portfolio() {
   return (
     <>
