@@ -9,3 +9,85 @@ footer {
   background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);
   background: linear-gradient(to right, #2c3e50, #bdc3c7);
 }
+
+/*Overwrite default text color */
+#portfolio h1,
+#skills h1,
+#about typography,
+#about p,
+#portfolio typography {
+  color: whitesmoke;
+}
+
+#about .title {
+  color: tan;
+  font-weight: normal;
+}
+#about .subtitle {
+  color: antiquewhite;
+  font-weight: normal;
+}
+
+#about img {
+  max-width: 35vw;
+  max-height: 35vh;
+}
+
+#about a {
+  text-decoration: none !important;
+}
+
+/* Project showcase */
+#portfolio .grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+#portfolio .title {
+  color: tan;
+  font-weight: bold;
+}
+
+#portfolio .subtitle {
+  color: antiquewhite;
+  font-weight: bold;
+}
+
+#portfolio img {
+  max-width: 35vw;
+  max-height: 60vh;
+}
+
+#portfolio .TaxCalculator {
+  grid-area: 1 / 1 / 2 / 3;
+  display: flex;
+  flex-direction: row;
+}
+
+#portfolio .TaxLeft {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-left: 2rem;
+}
+
+#portfolio .SpotifyClone {
+  grid-area: 2/1/3/3;
+  display: flex;
+  flex-direction: row;
+  margin-top: 3rem;
+}
+
+#portfolio .CloneLeft {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#portfolio ul > li {
+  color: antiquewhite;
+  font-weight: bold;
+}
