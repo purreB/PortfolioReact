@@ -1,5 +1,4 @@
 import React from 'react';
-import SpotifyClone from '../assets/SpotifyClone.jpg';
 function Portfolio() {
   return (
     <>
@@ -53,15 +52,6 @@ function Portfolio() {
                 >
                   Link To Project
                 </button>
-              </div>
-            </section>
-            <section className="CloneRight">
-              <div className="container">
-                <img
-                  src={SpotifyClone}
-                  alt="A preview image of the spotify clone"
-                  className="mt-6 pt-6"
-                />
               </div>
             </section>
           </section>
