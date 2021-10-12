@@ -11,7 +11,7 @@ function Navbar() {
   return (
     <>
       <nav className="navbar is-fixed-top is-black" role="navigation">
-        <div className="navbar-menu " id="my-nav">
+        <div className="navbar-menu" id="my-nav">
           <div className="navbar-end">
             <a href="#about" className="navbar-item" onClick={toggleDropdown}>
               About me
@@ -39,7 +39,7 @@ function Navbar() {
           onClick={toggleDropdown}
           role="button"
           id="burger"
-          className="navbar-burger "
+          className="navbar-burger"
         >
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>

@@ -38,14 +38,16 @@ function Skills() {
             <p className="is-size-3 has-text-centered has-text-weight-light is-size-5-mobile">
               Besides the skills shown above i have an gymnasieexamen in
               societal science were i studied subjects such as:
-              <ul>
-                <li>Behavioral science</li>
-                <li>Group psychology</li>
-                <li>Leadership and organisation</li>
-                <li>Corporate Economics</li>
-                <li>Communication</li>
-              </ul>
-              <br />
+            </p>
+            <ul>
+              <li>Behavioral science</li>
+              <li>Group psychology</li>
+              <li>Leadership and organisation</li>
+              <li>Corporate Economics</li>
+              <li>Communication</li>
+            </ul>
+            <br />
+            <p>
               Moreover, i have a passion for learning new skills and improving
               already existing skills. A good example of current applied skills
               is that i am our student representative, a role that comes with

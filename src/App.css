@@ -29,8 +29,7 @@ footer {
 }
 
 #about img {
-  max-width: 35vw;
-  max-height: 35vh;
+  max-width: 50%;
 }
 
 #about a {
@@ -55,8 +54,7 @@ footer {
 }
 
 #portfolio img {
-  max-width: 35vw;
-  max-height: 60vh;
+  max-width: 50%;
 }
 
 #portfolio .TaxCalculator {
@@ -111,4 +109,10 @@ footer {
 
 #footer p {
   color: whitesmoke;
+}
+
+@media screen and (max-width: 410px) {
+  #about {
+    flex-direction: column;
+  }
 }
