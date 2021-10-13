@@ -26,7 +26,7 @@ function Portfolio() {
               </button>
             </div>
           </section>
-          <section className="SpotifyClone section is-medium has-text-centered">
+          <section className="SpotifyClone section is-medium has-text-centered is-flex">
             <section className="CloneLeft section has-text-centered">
               <div className="container content is-normal">
                 <h1 className="title mt-6">Our Biggest Project Yet</h1>
@@ -54,15 +54,16 @@ function Portfolio() {
                 >
                   Link To Project
                 </button>
+              </div>
+            </section>
+            <section className="CloneRight">
+              <div className="container">
                 <img
                   src={clone}
                   alt="A preview image of the spotify clone"
                   className="mt-6 pt-6"
                 />
               </div>
-            </section>
-            <section className="CloneRight">
-              <div className="container"></div>
             </section>
           </section>
         </section>
