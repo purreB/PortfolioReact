@@ -36,8 +36,8 @@ function Skills() {
         <section className="textSection section has-text-centered">
           <div className="container">
             <p className="is-size-3 has-text-centered has-text-weight-light is-size-5-mobile">
-              Besides the skills shown above i have an gymnasieexamen in
-              societal science were i studied subjects such as:
+              Besides the skills shown above I have an gymnasieexamen in
+              societal science were I studied subjects such as:
             </p>
             <ul>
               <li>Behavioral science</li>
@@ -48,11 +48,11 @@ function Skills() {
             </ul>
             <br />
             <p>
-              Moreover, i have a passion for learning new skills and improving
+              Moreover, I have a passion for learning new skills and improving
               already existing skills. A good example of current applied skills
               is that i am our student representative, a role that comes with
-              responsibility and proffesionalism. <br /> <br />
-              Being a student representative, i attend meetings together with
+              responsibility and professionalism. <br /> <br />
+              Being a student representative, I attend meetings together with
               other representatives from other classes aswell as a large variety
               of IT-companies. In these meetings we discuss the current need of
               the IT-sector and make sure our education reflects those needs.

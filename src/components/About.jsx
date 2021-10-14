@@ -13,11 +13,11 @@ function About() {
           <p className="subtitle is-3 "> FrontEnd Student</p>
           <p className="is-size-3 has-text-centered has-text-weight-light is-size-5-mobile ">
             Hello and welcome to my simple portfolio! <br /> My name is Jakob as
-            mentioned above and i am 21 years old, i live in a small (ish)
+            mentioned above and I am 21 years old, I live in a small (ish)
             village outside of Skövde called Timmersdala. I am in the midst of
             learning FrontEnd-Development with focus on webbsecurity! <br />
-            <br /> I also have a great interest in gaming, i have even competed
-            in Esports were i believe i have learnt a great deal about working
+            <br /> I also have a great interest in gaming, I have even competed
+            in Esports were I believe I have learnt a great deal about working
             in teams and especially the importance of good communication skills.
           </p>
         </div>

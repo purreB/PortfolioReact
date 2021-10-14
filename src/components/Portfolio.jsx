@@ -11,7 +11,7 @@ function Portfolio() {
               <h1 className="title is-4 mt-3">Taxes. Simplified.</h1>
               <h1 className="subtitle is-3"> Tax Calculator</h1>
               <p className="is-size-3 has-text-centered has-text-weight-light is-size-5-mobile">
-                A tax calculator in java, which will calculate the ammount of
+                A tax calculator in java, which will calculate the amount of
                 taxes depending on what the user salary, the breakpoint
                 percentages is used from Skatteverket, 2019. <br />
               </p>
