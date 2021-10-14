@@ -47,10 +47,10 @@ function Skills() {
               <li>Communication</li>
             </ul>
             <br />
-            <p>
+            <p className="is-size-3 has-text-centered has-text-weight-light is-size-5-mobile">
               Moreover, I have a passion for learning new skills and improving
               already existing skills. A good example of current applied skills
-              is that i am our student representative, a role that comes with
+              is that I am our student representative, a role that comes with
               responsibility and professionalism. <br /> <br />
               Being a student representative, I attend meetings together with
               other representatives from other classes aswell as a large variety
