@@ -10,7 +10,7 @@ function CurrentLearning() {
             As previously mentioned I am learning FrontEnd-Development at JENSEN
             Yh. While the title of the education is FrontEnd we have also
             learned a good amount of backend skills such as SQL, APIs,
-            express.js, node.js, lowDB (document databases). I am also learning
+            express.js, node.js, document databases. I am also learning
             a lot of cyber, network and application security together with
             ethical hacking. A long term goal of mine is to take the PEN-2000
             and OSCP Certification.
