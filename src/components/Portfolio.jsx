@@ -66,6 +66,30 @@ function Portfolio() {
               </div>
             </section>
           </section>
+          <section className="Internship section has-text-centered">
+            <h1 className="title mt-6">
+              Fullstack intern at a very early startup
+            </h1>
+            <h1 className="subtitle is-3">My journey so far</h1>
+            <p className="is-size-3 has-text-centered has-text-weight-light is-size-5-mobile">
+              I am currently a fullstack intern in a very early startup project,
+              the company consists of the owner, project manager and then a team
+              of junior/intern developers. I have somewhat of a leader role
+              within the team and have been working in both Frontend, DevOps and
+              Backend. <br />
+              <br />
+              Some of the things i've done is setting up our entire backend in
+              node.js, that includes middleware, routes, api. As well as fixing
+              our database, for that we use MongoDB (mongoose), and i have also
+              written the database CRUD functions. To store passwords and
+              sensitive user data we hash it before saving to DB.
+              <br />
+              <br />
+              For the Frontend we use next.js and i've setup our fetch requests
+              aswell as creating components, not much styling though, but alot
+              of logic.
+            </p>
+          </section>
         </section>
       </div>
     </>
