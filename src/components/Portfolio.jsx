@@ -67,27 +67,51 @@ function Portfolio() {
             </section>
           </section>
           <section className="Internship section has-text-centered">
+            <h1 className="subtitle is-3">My journey so far.</h1>
             <h1 className="title mt-6">
-              Fullstack intern at a very early startup
+              Fullstack intern at a very early startup.
             </h1>
-            <h1 className="subtitle is-3">My journey so far</h1>
             <p className="is-size-3 has-text-centered has-text-weight-light is-size-5-mobile">
-              I am currently a fullstack intern in a very early startup project,
-              the company consists of the owner, project manager and then a team
-              of junior/intern developers. I have somewhat of a leader role
-              within the team and have been working in both Frontend, DevOps and
-              Backend. <br />
-              <br />
-              Some of the things i've done is setting up our entire backend in
-              node.js, that includes middleware, routes, api. As well as fixing
-              our database, for that we use MongoDB (mongoose), and i have also
-              written the database CRUD functions. To store passwords and
-              sensitive user data we hash it before saving to DB.
+              In my previous internship i worked as a fullstack intern in a very
+              early startup project, the company consists of the owner, project
+              manager and then a team of junior/intern developers. I had
+              somewhat of a leader role within the team and worked with
+              Frontend, Backend and DevOps aswell.
               <br />
               <br />
-              For the Frontend we use next.js and i've setup our fetch requests
+              Some of the things i got to do is set up the entire backend in
+              Node.js, that includes middleware, routes, api. As well as fixed
+              our database, for that we use MongoDB (mongoose), and i also wrote
+              the database CRUD functions. To store passwords and sensitive user
+              data we hash it before saving to DB.
+              <br />
+              <br />
+              For the Frontend we used next.js and i setup our fetch requests
               aswell as creating components, not much styling though, but alot
               of logic.
+              <br />
+              <br />
+            </p>
+            <h1 className="title mt-6">
+              Fullstack intern at FrontEdgeIT, An IT consult firm.
+            </h1>
+            <p className="is-size-3 has-text-centered has-text-weight-light is-size-5-mobile">
+              In my current internship i've been working with a quite
+              interesting project consisting of React, Node.JS and Python
+              scripts. The project is an email crawler that crawls an inbox,
+              fetches data from email body or attatchments (PDF, Excel files
+              etc), it then sents relevant info to Node that then sends it to DB
+              and displays info on the Frontend. The Email Crawler is written in
+              Python and that is what i've been working with the most during
+              this time, but also some node.
+              <br />
+              <br />
+              Another fun assignment i just recently finished was performing a
+              pentest on one of our customers, as i have somewhat experience in
+              performing pentests and ethical hacking i loved this oppertunity
+              and helped our customer improve their security posture and
+              identify security flaws that could be leveraged by an attacker to
+              gain unauthorized access to data.
             </p>
           </section>
         </section>
